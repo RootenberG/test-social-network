@@ -62,6 +62,7 @@ INSTALLED_APPS = [
 
     # my apps
     'whishlist',
+    'drf_yasg',
 
     # rest framework
     'rest_framework',
